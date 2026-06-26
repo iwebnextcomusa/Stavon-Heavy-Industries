@@ -1,0 +1,6 @@
+{
+  "name": "Stravon Heavy Industries",
+  "description": "The Global Industrial Clearinghouse. Premium industrial asset procurement, global logistics solutions, and structured supply chain systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
